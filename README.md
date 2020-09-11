@@ -3,3 +3,5 @@
 ▪ Used excel to collect dataset from various hospitals and utilized Python to clean and analyse the data.
 ▪ Team utilized Tableau and Python in implementing the dashboard and the MedSearch Web App.
 ▪  Top 5 finalists.
+
+https://docs.google.com/presentation/d/1r8LAB0M-1jsNeUreF7SWW6j-JLwki-k3yaTqogTCXS4/edit#slide=id.g9444557b7a_0_10456
